@@ -1,0 +1,21 @@
+.content {
+    font-weight: bold;
+    min-height: 50vh;
+    border-radius: 20px;
+    background: rgb(253, 253, 253);
+    padding: 10px;
+}
+
+.btn-login {
+    color: #fff;
+    background: black;
+}
+
+.form-check-input:checked {
+    background-color: black;
+    border-color: black;
+}
+
+.form-check label {
+    margin-left: 10px;
+}

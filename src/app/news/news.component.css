@@ -1,0 +1,63 @@
+.thumb-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 b {
+    font-weight: bold;
+    color: gold;
+    font-style: italic;
+    border: 1px solid;
+    padding: 7px;
+    border-radius: 50px;
+    background: rgb(0, 0, 0);
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+img {
+    border-radius: 50px;
+}
+
+.main {
+    border-radius: 20px;
+    background: rgb(253, 253, 253);
+    padding: 10px;
+}
+
+.container-fluid {
+    margin-top: 50px;
+}
+
+.form-control {
+    width: 250px;
+
+}
+
+.d-flex {
+    justify-content: flex-end;
+}
+
+.btn-outline-success {
+    background-color: black;
+    border-color: gold;
+    color: gold;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.btn-outline-success:hover {
+    background-color: #000000;
+    border-color: gold;
+    color: gold;
+}
+
+.btn-primary {
+    background-color: black;
+    border-color: gold;
+    color: gold;
+    font-weight: bold;
+}

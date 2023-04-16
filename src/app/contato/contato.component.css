@@ -1,0 +1,12 @@
+.content {
+    font-weight: bold;
+    min-height: 50vh;
+    border-radius: 20px;
+    background: rgb(253, 253, 253);
+    padding: 10px;
+}
+
+.btn-custom {
+    color: #fff;
+    background: black;
+}

@@ -1,0 +1,18 @@
+.navbar-custom {
+  font-weight: bold;
+  background-color: rgb(0, 12, 0);
+  border-radius: 20px;
+}
+
+.container-fluid a {
+  color: gold;
+}
+
+.login-icon {
+  color: gold;
+}
+
+.navbar-button {
+  background: gold;
+  color: black;
+}
