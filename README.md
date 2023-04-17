@@ -1,2 +1,3 @@
 # AngularSenac
- Projeto desenvolvido utilizando o framework angular para fins de estudo.
+ Página web desenvolvida utilizando o framework angular para fins de estu
+do.
